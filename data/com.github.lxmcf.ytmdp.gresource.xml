@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/lxmcf/ytmdp">
+    <file alias="icon.png" compressed="true">icon.png</file>
+    <file alias="application.css" compressed="true">application.css</file>
+  </gresource>
+</gresources>

@@ -1,0 +1,6 @@
+build/
+Daily/
+
+*~
+
+.DS_Store
